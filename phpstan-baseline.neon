@@ -1,0 +1,115 @@
+parameters:
+	ignoreErrors:
+		-
+			message: '#^Class Laravel\\Telescope\\Http\\Middleware\\Authorize not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\BatchWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\CacheWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\ClientRequestWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\CommandWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\DumpWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\EventWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\ExceptionWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\GateWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\JobWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\LogWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\MailWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\ModelWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\NotificationWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\QueryWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\RedisWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\RequestWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\ScheduleWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
+
+		-
+			message: '#^Class Laravel\\Telescope\\Watchers\\ViewWatcher not found\.$#'
+			identifier: class.notFound
+			count: 1
+			path: config/telescope.php
